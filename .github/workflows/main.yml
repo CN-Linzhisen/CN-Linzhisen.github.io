@@ -36,7 +36,7 @@ jobs:
       
       # Build 
       - name: build
-        run: npm docs:build
+        run: npm run docs:build
         
       # Deploy
       - name: deploy
