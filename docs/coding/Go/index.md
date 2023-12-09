@@ -46,3 +46,26 @@ int main() {
     printf("Hello World");
     return 0;
 }
+
+# Kotlin
+```kotlin
+fun main() {
+    println("Hello World")
+}
+```
+
+# Dart
+```dart
+void main() {
+    print("Hello World");
+}
+```
+
+# Swift
+```swift
+print("Hello World")
+```
+
+# TypeScript
+```typescript
+console.log("Hello World");
