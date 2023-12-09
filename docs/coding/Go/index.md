@@ -27,3 +27,22 @@ public class Main {
     public static void main(String[] args) {
     }
 }
+# JavaScript
+```javascript
+console.log("Hello World");
+```
+
+# Rust
+```rust
+fn main() {
+    println!("Hello World");
+}
+```
+
+# C
+```c
+#include <stdio.h>
+int main() {
+    printf("Hello World");
+    return 0;
+}
