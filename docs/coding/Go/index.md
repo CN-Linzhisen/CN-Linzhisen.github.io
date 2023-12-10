@@ -65,7 +65,3 @@ void main() {
 ```swift
 print("Hello World")
 ```
-
-# TypeScript
-```typescript
-console.log("Hello World");
